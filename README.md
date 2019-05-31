@@ -127,7 +127,7 @@ and one of its parts: https://hacker-news.firebaseio.com/v0/item/160705.json?pri
 
 ```javascript
 {
-  "by" : "pg",
+  "by" : [{"pg"},{"AJ"}]
   "id" : 160705,
   "poll" : 160704,
   "score" : 335,
